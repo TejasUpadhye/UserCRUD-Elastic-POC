@@ -15,8 +15,3 @@ Mini .NET 8 microservice POC implementing User CRUD with OpenAPI (Swagger). Inte
 - .NET 8 SDK
 - Docker Desktop
 
-### Run locally
-1. Start Elasticsearch & Kibana:
-```bash
-docker compose up -d
-
